@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Proyek ini merupakan portofolio analisis data yang berfokus pada evaluasi performa sistem *Bike Sharing* di Washington D.C. Dashboard interaktif ini dibangun menggunakan **Streamlit** untuk memvisualisasikan temuan dari *Exploratory Data Analysis* (EDA) serta analisis lanjutan berbasis *clustering* (binning) suhu.
 
-🔗 **Live Dashboard:** [Kunjungi Dashboard di Streamlit Cloud](https://<nama-aplikasi-kamu>.streamlit.app/) *(Catatan: Ganti URL ini dengan link asli setelah deploy)*
+🔗 **Live Dashboard:** [Kunjungi Dashboard di Streamlit Cloud](https://dashboard-punya-telaga.streamlit.app/) 
 
 ## ❓ Business Questions
 Analisis dalam proyek ini dirancang secara spesifik untuk menjawab dua pertanyaan bisnis berikut:

@@ -60,7 +60,7 @@ with st.sidebar:
     st.markdown("---")
     
     # 2. Filter Kategori Cuaca (Multiselect)
-    weather_options = df_day['weathersit'].unique()
+    weather_options = ['Clear/Partly Cloudy', 'Misty/Cloudy', 'Light Snow/Light Rain', 'Heavy Rain/Snow Fog']
     selected_weather = st.multiselect(
         label="Pilih Kondisi Cuaca:",
         options=weather_options,
